@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "熱暴走 - NEE",
+  "base_artist": "NEE",
+  "createdAt": "2026-02-07T12:33:21.981478Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱暴走",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_熱暴走_NEE.txt"
+    }
+  ]
+}
